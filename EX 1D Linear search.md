@@ -1,5 +1,5 @@
 # EX 1D Linear search
-## DATE:26/04/2025
+## DATE:30/04/2025
 ## AIM:
 To write a python program for a search function with parameter list name and the value to be searched using string values.
 
@@ -19,7 +19,7 @@ To write a python program for a search function with parameter list name and the
    
 
 ## Program:
-```py
+```
 /*
 Program to implement a search function with parameter list name and the value to be searched using string values.
 Developed by: BHARATH J
